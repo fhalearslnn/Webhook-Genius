@@ -1,1 +1,1 @@
-print('Hello Wizard World from Jenk Job')
+print('Hello Wizard from Jenk Job')
